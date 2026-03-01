@@ -1,0 +1,4 @@
+# Core dependency — standard library only; no install needed for basic analysis.
+# Install the optional dependency below to enable --plot visualisations.
+
+matplotlib>=3.7   # optional: required only for --plot flag
